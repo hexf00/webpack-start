@@ -1,0 +1,1 @@
+npx webpack --entry="./index.js" --output-filename="demo1.js" --mode=development
