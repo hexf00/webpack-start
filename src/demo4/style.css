@@ -1,0 +1,4 @@
+@import './style_sub.css';
+body{
+    border: 1px solid #f00;
+}
